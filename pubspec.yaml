@@ -4,6 +4,8 @@ author: Flutter Authors <flutter-dev@googlegroups.com>
 version: 4.1.3
 description: Flux library for Flutter, featuring unidirectional dataflow inspired by reflux and Facebook's flux architecture.
 homepage: https://github.com/google/flutter_flux
+publish_to: none
+
 dependencies:
   meta: ^1.0.3
   flutter:
